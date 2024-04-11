@@ -1,0 +1,8 @@
+Pesquise a diferença entre as estruturas apresentadas e quando deve-se utilizar cada uma.
+
+R: DIFERENÇA ENTRE LISTA E TUPLAS: As listas são usadas quando a ordem dos elementos é 
+importante e quando é necessário modificar a coleção após a criação. As tuplas são úteis 
+quando se quer uma coleção imutável, por exemplo, para definir coordenadas.
+As listas são usadas quando a ordem dos elementos é importante e quando é necessário modificar 
+a coleção após a criação. As tuplas são úteis quando se quer uma coleção imutável, por exemplo, 
+para definir coordenadas.
