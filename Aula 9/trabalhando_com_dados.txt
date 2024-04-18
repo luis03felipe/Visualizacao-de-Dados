@@ -1,0 +1,4 @@
+Bem dizer vamos usar arquivos em excell e outros tipos para visualizar em python. 
+
+sinapi.head é os 5 primeiros itens de um dataset (por padrão é 5)
+sinapi.tial é os 5 ultimos.
